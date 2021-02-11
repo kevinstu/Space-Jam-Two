@@ -1,0 +1,23 @@
+body {
+  background-image: url("./images/space-stars-background_160081-158.jpg");
+}
+
+.container {
+  max-width: 1000px;
+}
+
+#row-one {
+  height: 150px;
+}
+
+#row-two {
+}
+
+#row-three {
+  height: 150px;
+  margin-top: -50px;
+}
+
+#row-four {
+  margin-top: -50px;
+}
