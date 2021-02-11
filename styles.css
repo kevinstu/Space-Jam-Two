@@ -1,3 +1,8 @@
+#text-circle {
+  background-color: purple;
+  border-radius: 100%;
+}
+
 h2 {
   color: orange;
   /* background-color: purple; */
@@ -7,6 +12,10 @@ h2 {
 #hero {
   background-image: url("./images/space-stars-background_160081-158.jpg");
   min-height: 100vh;
+}
+
+.logo {
+  width: 185px;
 }
 
 section {
@@ -35,11 +44,11 @@ section {
 
 /* Planet B-Ball */
 
-#planet-bball {
+/* #planet-bball {
   background-image: url("./images/bg-bball.gif");
 }
-
-.player-img {
+/*  */
+/* .player-img {
   height: 150px;
 }
 
@@ -49,16 +58,29 @@ section {
 
 .img-left {
   border-radius: 30% 70%;
-}
+} */
+*/
 
 /* Behind The Jame */
 
-#behind-the-jam {
+/* #behind-the-jam {
   background-image: url("./images/space-stars-background_160081-158.jpg");
-}
+} */
 
 /* Junior Jam */
 
-#junior-jam {
+/* #junior-jam {
   background-image: url("./images/bg-junior.gif");
+} */
+
+/* Coming Soon */
+
+#coming-soon {
+  font-size: 5rem;
+  color: white;
+}
+
+/* Tablet & Mobile */
+
+@media only screen and (max-width: 992px) {
 }
