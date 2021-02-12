@@ -132,3 +132,16 @@ body {
 .active {
   display: block;
 }
+
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+  .grid-wrapper {
+    width: 350px;
+    height: 400px;
+  }
+
+  #logo {
+    width: 175px;
+  }
+}
